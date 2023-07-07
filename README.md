@@ -4,3 +4,5 @@ Códigos de aula e teste da turma do curso de DESENVOLVIMENTO DE SISTEMAS da Fun
 Curso fullstack
 
 19-05-23 AULA SOBRE SCRUM NO SQL
+
+renato da graça silva
